@@ -1,0 +1,240 @@
+{
+        "intents": [
+          {"tag": "greeting",
+            "patterns": ["hi",
+              "hey",
+              "is anyone there?",
+              "hello",
+              "good day"],
+              "responses": [
+              "hey :-)","hi welcome to our food system",
+              "hello, thanks for visiting",
+              "hi there, what can i do for you?",
+              "hi there, how can i help?"
+            ]},
+            {"tag": "how are you",
+            "patterns": ["how are you"],
+              "responses": [
+              "I am good thanks for asking \ndo you want to order"
+            ]},
+            {"tag": "yes",
+            "patterns": ["yes"],
+              "responses": ["what do you want to order"]},
+              {"tag": "yes",
+              "patterns": ["how did you work","who are your parents"],
+                "responses": ["i am made from collavrative filtering alogrithm"]},
+
+          {
+            "tag": "name",
+            "patterns": ["what is your name", "what should i call you", "whats your name"],
+            "responses": [
+              "you can call me SEMN",
+              "I am SEMN the assistant of Nida sarah erum maryarm"
+            ]
+          },
+          {
+            "tag": "shop",
+            "patterns": ["i like to buy burger"],
+            "responses": [
+              "love your burger"
+            ]
+          },    
+{
+            "tag": "goodbye",
+            "patterns": ["bye", "see you later", "goodbye"],
+            "responses": [
+              "see you later, thanks for visiting",
+              "have a nice day",
+              "bye! come back again soon."
+            ]
+          },
+          {
+            "tag": "thanks",
+            "patterns": ["thanks", "thank you", "that's helpful", "thank's a lot!"],
+            "responses": ["happy to help!", "any time!", "my pleasure"]
+          },
+          {"tag": "burger",
+            "patterns": ["i want to order burger"],
+            "responses": ["we have shack burger shroom burger cheese burger"]},
+          {"tag": "hot dog",
+          "patterns": ["i want to order hotdog","i want to order hot dog"],
+          "responses": ["we have new york style hot dog  cheese hotdog and shack cago hotdog"]},
+          {"tag": "french fries",
+          "patterns": ["i want to order french fries","i want to order price","i want to order fries","i want to order fries"],
+          "responses": ["we have normal fries cheese fries "]},
+          {"tag": "drink",
+          "patterns": ["i want to order drinks","i want to order drink"],
+          "responses": ["we have ice tea normal water lemonade"]},
+          {"tag": "ice cream",
+          "patterns": ["i want to order ice cream","i want to order ice","i want to order cream"],
+          "responses": ["we have vaniall choclate strawberry ice  cream"]},
+          {"tag": "shakes",
+          "patterns": ["i want to order shake","i want to order shakes","i want to order sheikh"],
+          "responses": ["we have cinnamon soul and black and white shakes"]},
+          {"tag": "recommendation",
+          "patterns": ["i m confused with your menu"],
+          "responses": ["dont worry we have recommendation system for you"]},
+
+
+
+
+          {"tag": "chocolate",
+          "patterns": ["i want to order chocolate icecream","chocolate","chocolate icecream","i want to order choclates icecream"],
+          "responses": ["choose your quantity"]},
+          {"tag": "dubai malt",
+          "patterns": ["i want to order dubai malt"],
+          "responses": ["choose your quantity"]},
+          {"tag": "vanilla",
+          "patterns": ["i want to order vanialla icecream","i want to order vennela"],
+          "responses": ["choose your quantity"]},
+          {"tag": "peanut butter",
+          "patterns": ["i want to order peanut butter icecream"],
+          "responses": ["choose your quantity"]},
+          {"tag": "shack attack",
+          "patterns": ["i want to order shack attack"],
+          "responses": ["choose your quantity"]},
+          {"tag": "bnb triffle",
+          "patterns": ["i want to order bnb triffle"],
+          "responses": ["choose your quantity"]},
+          {"tag": "vanilla toffee twirl'",
+          "patterns": ["i want to order vanilla toffee twirl"],
+          "responses": ["choose your quantity"]},
+
+
+
+
+
+
+          {"tag": "shack burger",
+          "patterns": ["i want to order shack burger","i want to order shack ","shack burger"],
+          "responses": ["choose your quantity"]},
+          {"tag": "shroom burger",
+          "patterns": ["i want to order shroom burger","i want to order shroom ","shroom burger"],
+          "responses": ["choose your quantity"]},
+          {"tag": "hamburger",
+          "patterns": ["i want to order hamburger","hamburger"],
+          "responses": ["choose your quantity"]},
+          {"tag": "stack shack",
+          "patterns": ["i want to order stack shack","stack shack"],
+          "responses": ["choose your quantity"]},
+          {"tag": "cheese burger",
+          "patterns": ["i want to order cheese burger","cheese burger"],
+          "responses": ["choose your quantity"]},
+          {"tag": "chick and shack",
+          "patterns": ["i want to order chick and shack","chick and shack"],
+          "responses": ["choose your quantity"]},
+
+
+
+
+          {"tag": "shack cago hotdog",
+          "patterns": ["i want to order shack cago hotdog","i want to order shack cago hot dog","shack cago hot dog","shack cago hotdog","i want to order chicago hot dog","chicago hot dog"],
+          "responses": ["choose your quantity"]},
+          {"tag": "cheese hotdog",
+          "patterns": ["i want to order cheese hotdog","cheese hotdog","i want to order cheese hot dog","cheese hot dog"],
+          "responses": ["choose your quantity"]},
+          {"tag": "ny style hotdog",
+          "patterns": ["i want to order ny style hotdog","ny style hotdog","i want to order ny style hot dog","ny style hot dog"],
+          "responses": ["choose your quantity"]},
+
+
+
+
+
+          {"tag": "normal fries",
+          "patterns": ["i want to order normal fries","normal fries","normal frie"],
+          "responses": ["choose your quantity"]},
+          {"tag": "cheese fries",
+          "patterns": ["i want to order cheese fries","cheese fies","cheese frie"],
+          "responses": ["choose your quantity"]},
+          {"tag": "bacon and cheese",
+          "patterns": ["i want to order bacon and cheese","bacon and cheese"],
+          "responses": ["choose your quantity"]},
+
+
+
+
+
+          {"tag": "shack lemonade",
+          "patterns": ["i want to order shack lemonade","i want to order shirt laminate","shack lemonade"],
+          "responses": ["choose your quantity"]},
+          {"tag": "ice tea",
+          "patterns": ["i want to order ice tea","ice tea"],
+          "responses": ["choose your quantity"]},
+          {"tag": "float water",
+          "patterns": ["i want to order float water","float water","water"],
+          "responses": ["choose your quantity"]},
+          {"tag": "fifty fifty",
+          "patterns": ["i want to order fifty fifty","i want to order 50 50","fifty fifty"],
+          "responses": ["choose your quantity"]},
+
+
+          {"tag": "black and white",
+          "patterns": ["i want to order black and white","black and white"],
+          "responses": ["choose your quantity"]},
+          {"tag": "cinnamon soul",
+          "patterns": ["i want to order cinnamon soul","cinnamon soul"],
+          "responses": ["choose your quantity"]},
+          
+    
+      {
+            "tag": "menu",
+            "patterns": [
+              "which items do you have?",
+              "what is your menu?",
+              "what kinds of items are there?",
+              "what do you sell?"
+            ],
+            "responses": [
+              "we have burger hotdog and many more please visit our menu page"
+            ]
+          },
+          {
+            "tag": "payments",
+            "patterns": [
+              "do you take credit cards?","please generate my bill?",
+              "do you accept mastercard?",
+              "can i pay with paypal?",
+              "are you cash only?"
+            ],
+            "responses": [
+              "we accept visa, mastercard and paypal",
+              "we accept most major credit cards, and paypal"
+            ]
+          },
+          {
+            "tag": "bill",
+            "patterns": [
+              "please generate my bill","generate my bill","please send it by mail","bill"
+              
+            ],
+            "responses": [
+              "okay sir thanks for visting"
+            ]
+          },
+          {
+            "tag": "delivery",
+            "patterns": [
+              "how long does delivery take?",
+              "how long does shipping take?",
+              "when do i get my delivery?"
+            ],
+            "responses": [
+              "delivery times depends on you location"
+            ]
+          },
+          {
+            "tag": "funny",
+            "patterns": [
+              "tell me a joke!",
+              "tell me something funny",
+              "do you know a joke?"
+            ],
+            "responses": [
+              "why did the hipster burn his mouth? he drank the coffee before it was cool.",
+              "what did the buffalo say when his son left for college? bison."
+            ]
+          }
+        ]
+      }
+      
