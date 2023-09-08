@@ -47,13 +47,6 @@ AI based food ordering system is about ordering food from a Cafe. GUI made using
 
 <img src="./screenshot/bill.png" alt="Main">
 
-<p align="center">
-    <b>About Us Page</b>
-</p>
-
-<p align="center">
-<img src="./screenshot//about.png" alt="Main">
-</p>
 
 ## How to Run
 
