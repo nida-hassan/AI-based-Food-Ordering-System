@@ -37,8 +37,9 @@ This project is about ordering food from a Cafe. Individual order can be taken f
     <b>Enter Detail Page</b>
 </p>
 
+<p align="center">
 <img src="./screenshot/deatils.png" alt="Main">
-
+</p>
 
 <p align="center">
     <b>Billing and Estimated Time Page</b>
