@@ -23,7 +23,9 @@ This project is about ordering food from a Cafe. Individual order can be taken f
     <b>Recommendation Page</b>
 </p>
 
-<img src="./screenshot/recom.png" alt="Main">
+<p align="center">
+  <img src="./screenshot/recom.png" alt="Main">
+</p>
 
 <p align="center">
     <b>Sub Menu Page</b>
@@ -48,8 +50,9 @@ This project is about ordering food from a Cafe. Individual order can be taken f
     <b>About Us Page</b>
 </p>
 
+<p align="center">
 <img src="./screenshot//about.png" alt="Main">
-
+</p>
 
 ## How to Run
 
