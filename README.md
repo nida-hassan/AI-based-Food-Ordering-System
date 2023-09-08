@@ -2,7 +2,7 @@
 
 ## About the Project
 
-This project is about ordering food from a Cafe. Individual order can be taken from respective tables. A bill is generated once u give the order. GUI made using Python Tkinter. You are free to to use this project for college or school purposes. Please note that this project is not made for business or commercial purposes.
+AI based food ordering system is about ordering food from a Cafe. GUI made using Python Tkinter. The system integrated voice recognition technology for easeful ordering, a recommendation system for personalized menu suggestions, and an estimated delivery time feature.
 
 
 
