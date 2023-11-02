@@ -4,7 +4,22 @@
 
 AI based food ordering system is about ordering food from a Cafe. GUI made using Python Tkinter. The system integrated voice recognition technology for easeful ordering, a recommendation system for personalized menu suggestions, and an estimated delivery time feature.
 
+## How to Run
 
+Run the `main file` python file. DB already created.
+
+## Admin Page
+
+To access admin portal:
+In the application window, go to `File` then `Admin`.
+
+Admin credentials: 
+Username: admin Password: admin123
+
+## Technologies Used
+
+- PYTHON
+- TKINTER
 
 <p align="center">
     <b>Home Page</b>
@@ -50,22 +65,3 @@ AI based food ordering system is about ordering food from a Cafe. GUI made using
 </p>
 
 <img src="./screenshot/bill.png" alt="Main">
-
-
-## How to Run
-
-Run the `main file` python file. DB already created.
-
-## Admin Page
-
-To access admin portal:
-In the application window, go to `File` then `Admin`.
-
-Admin credentials: 
-Username: admin Password: admin123
-
-## Technologies Used
-
-PYTHON
-
-TKINTER
