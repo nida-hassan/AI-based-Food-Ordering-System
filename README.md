@@ -27,7 +27,7 @@ AI based food ordering system is about ordering food from a Cafe. GUI made using
 </p>
 
 <p align="center">
-  <img src="./screenshot/recom.png" alt="Main">
+  <img src="./screenshot/recoms.png" alt="Main">
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ AI based food ordering system is about ordering food from a Cafe. GUI made using
 </p>
 
 <p align="center">
-<img src="./screenshot/deatils.png" alt="Main">
+<img src="./screenshot/deatil.png" alt="Main">
 </p>
 
 <p align="center">
