@@ -10,10 +10,10 @@ Run the `main file` python file. DB already created.
 
 ## Admin Page
 
-To access admin portal:
+- To access admin portal:
 In the application window, go to `File` then `Admin`.
 
-Admin credentials: 
+- Admin credentials: 
 Username: admin Password: admin123
 
 ## Technologies Used
