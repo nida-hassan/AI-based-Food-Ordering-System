@@ -2,7 +2,7 @@
 
 ## About the Project
 
-This project is about ordering food from a Cafe. Individual order can be taken from respective tables. A bill is generated once u give the order. GUI made using Python Tkinter. You are free to to use this project for college or school purposes. Please note that this project is not made for business or commercial purposes.
+AI based food ordering system is about ordering food from a Cafe. GUI made using Python Tkinter. The system integrated voice recognition technology for easeful ordering, a recommendation system for personalized menu suggestions, and an estimated delivery time feature.
 
 
 
@@ -26,7 +26,9 @@ This project is about ordering food from a Cafe. Individual order can be taken f
     <b>Recommendation Page</b>
 </p>
 
-<img src="./screenshot/recom.png" alt="Main">
+<p align="center">
+  <img src="./screenshot/recom.png" alt="Main">
+</p>
 
 <p align="center">
     <b>Sub Menu Page</b>
@@ -39,20 +41,15 @@ This project is about ordering food from a Cafe. Individual order can be taken f
     <b>Enter Detail Page</b>
 </p>
 
+<p align="center">
 <img src="./screenshot/deatils.png" alt="Main">
-
+</p>
 
 <p align="center">
     <b>Billing and Estimated Time Page</b>
 </p>
 
 <img src="./screenshot/bill.png" alt="Main">
-
-<p align="center">
-    <b>About Us Page</b>
-</p>
-
-<img src="./screenshot//about.png" alt="Main">
 
 
 ## How to Run
