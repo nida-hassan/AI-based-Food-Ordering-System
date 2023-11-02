@@ -19,6 +19,9 @@ This project is about ordering food from a Cafe. Individual order can be taken f
 
 <img src="./screenshot/menu.png" alt="Main">
 
+
+
+
 <p align="center">
     <b>Recommendation Page</b>
 </p>
@@ -30,6 +33,7 @@ This project is about ordering food from a Cafe. Individual order can be taken f
 </p>
 
 <img src="./screenshot/sub_menu.png" alt="Main">
+<img src="./screenshot/order.png" alt="Main">
 
 <p align="center">
     <b>Enter Detail Page</b>
